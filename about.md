@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### The game
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+*Placeholder name* is a story driven 2D platformer focused on exploration and resource gathering. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[DeviantArt](http://mmmcgill1232.deviantart.com/)
+
+[Youtube](https://www.youtube.com/user/mmmcgill1232)
+
+[Email](mailto:mmmcgill1232@gmail.com)
