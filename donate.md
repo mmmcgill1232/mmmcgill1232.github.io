@@ -5,7 +5,7 @@ permalink: /donate/
 ---
 
 If you would like to make a donation to help support what I'm doing you can do so here.
-
+<br/>
 
 <div align="center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
