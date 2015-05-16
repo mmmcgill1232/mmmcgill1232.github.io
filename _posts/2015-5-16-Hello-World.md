@@ -5,7 +5,9 @@ title: You're up and running!
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-<img src="http://mmmcgill1232.deviantart.com/art/Run-Animation-533225361" alt="Running Animation" />
+<img src="http://orig02.deviantart.net/6050/f/2015/135/b/a/runanim_by_mmmcgill1232-d8tgvbl.gif" alt="Running Animation" />
+Test...
+![Running Animation Test](http://orig02.deviantart.net/6050/f/2015/135/b/a/runanim_by_mmmcgill1232-d8tgvbl.gif)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
