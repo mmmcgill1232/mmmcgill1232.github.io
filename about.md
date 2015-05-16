@@ -8,10 +8,12 @@ permalink: /about/
 
 *Placeholder name* is a story driven 2D platformer focused on exploration and resource gathering. 
 
+### More
+
+Check out my personal [DeviantArt](http://mmmcgill1232.deviantart.com/) page for various artwork I've done, both for the game and just for fun.
+
+I'll be posting gameplay footage to [Youtube](https://www.youtube.com/user/mmmcgill1232) as I have more to show. I also have an ongoing F.E.A.R. playthrough there if you enjoy that kind of thing.
+
 ### Contact me
-
-[DeviantArt](http://mmmcgill1232.deviantart.com/)
-
-[Youtube](https://www.youtube.com/user/mmmcgill1232)
 
 [Email](mailto:mmmcgill1232@gmail.com)
