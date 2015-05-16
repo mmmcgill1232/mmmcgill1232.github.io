@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Up and running!
+comments: true
 ---
 
 And how better to get started than with the first draft of my main character's running animation!
