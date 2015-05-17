@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Up and running!
-excerpt_separator: <!--more-->
 comments: true
 ---
 
