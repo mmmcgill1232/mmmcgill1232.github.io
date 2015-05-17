@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gathering
+excerpt_separator: <!--more-->
 comments: true
 ---
 The core gameplay in my game is going to revolve around exploring the world and gathering resources. To me this means two things: 
@@ -13,6 +14,7 @@ The core gameplay in my game is going to revolve around exploring the world and 
 <br/>
 <br/>
 The latter point is an issue of balancing resource costs and designing areas that make gathering challenging and interesting. When I start focusing on level layout I’ll delve more deeply into that topic but for today I’m going to be focusing on the first objective. 
+<!--more-->
 <br/><br/>
 Once I had the player moving around the environment the very next thing I did was create entities that the player could walk up to, press a key to interact with, and destroy the entity while increasing the resource count by a fixed amount. At the most fundamental level this is what the gathering system is intended to do, however this on its own sucks. The player’s only feedback from the game to let them know they made a difference is a box disappearing. I needed to give the action some character.
 <br/><br/><br/>
