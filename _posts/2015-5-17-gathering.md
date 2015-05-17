@@ -5,14 +5,13 @@ excerpt_separator: <!--more-->
 comments: true
 ---
 The core gameplay in my game is going to revolve around exploring the world and gathering resources. To me this means two things: 
-<br/><br/>
+
 <b>
 1.	The most basic action of pushing the gather button should be satisfying
 <br/>
 2.	Gathering should never feel like a chore
 </b>
-<br/>
-<br/>
+
 The latter point is an issue of balancing resource costs and designing areas that make gathering challenging and interesting. When I start focusing on level layout I’ll delve more deeply into that topic but for today I’m going to be focusing on the first objective. 
 <!--more-->
 <br/><br/>
