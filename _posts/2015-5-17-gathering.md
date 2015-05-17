@@ -16,7 +16,7 @@ The latter point is an issue of balancing resource costs and designing areas tha
 <br/><br/>
 Once I had the player moving around the environment the very next thing I did was create entities that the player could walk up to, press a key to interact with, and destroy the entity while increasing the resource count by a fixed amount. At the most fundamental level this is what the gathering system is intended to do, however this on its own sucks. The player’s only feedback from the game to let them know they made a difference is a box disappearing. I needed to give the action some character.
 <br/>
-<table style="border:1px">
+<table style="border: 1px solid black;">
   <tr>
     <td>
       <img src="{{ site.baseurl }}/images/gathering_noshake.gif" alt="No shake" style="width: 400px;"/>
@@ -34,7 +34,7 @@ I started off fiddling around with brxr.net’s explosion sound generator until 
 Next up was causing a little screen shake to go along with the noise. I decided to try for a subtle shake as this is an action that will be happening fairly frequently and I don’t want the player’s actively noticing it. I want the shake to add a little extra weight and feel to the gathering action without distracting the player.
 <br/>
 
-<table style="border:1px">
+<table style="border: 1px solid black;">
   <tr>
     <td>
       <img src="{{ site.baseurl }}/images/gathering_shake.gif" alt="No shake" style="width: 400px;"/>
