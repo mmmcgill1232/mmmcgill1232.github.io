@@ -23,7 +23,7 @@ Once I had the player moving around the environment the very next thing I did wa
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="padding-left: 5px;">
       Bleh...
     </td>
   </tr>
@@ -41,7 +41,7 @@ Next up was causing a little screen shake to go along with the noise. I decided 
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="padding-left: 5px;">
       Getting better...
     </td>
   </tr>
