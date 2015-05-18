@@ -7,9 +7,9 @@ comments: true
 I've been trying out caricature style for my character designs and I'm quite pleased with how some of them have turned out.
 
 ![Group Shot](http://pre09.deviantart.net/077e/th/pre/f/2015/135/2/b/group_shot_by_mmmcgill1232-d8th4y6.png)
-
+<br/>
 <span class="more"></span>
-
+<br/>
 Currently I'm planning on having these guys function as builders, allowing the player to purchase environment upgrades throughout the game.
 
 ![Strongman1](http://orig09.deviantart.net/9efe/f/2015/135/0/4/strongman_1_by_mmmcgill1232-d8th4o2.png)
