@@ -13,6 +13,7 @@ I've been working on a fire themed icon pack for a while now and I'm finally rea
 You can also get it on [OpenGameArt.org](insert link here).
 
 Specifications:
+
 * 21 Icons
 * 500 x 500 px
 * PSD and PNG formats
