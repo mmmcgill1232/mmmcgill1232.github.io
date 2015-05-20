@@ -10,7 +10,7 @@ I've been working on a fire themed icon pack for a while now and I'm finally rea
 
 <span class="more"></span>
 
-You can also get it on [OpenGameArt.org](insert link here).
+You can also get it on [OpenGameArt.org](http://opengameart.org/content/fiery-icon-pack).
 
 Specifications:
 
