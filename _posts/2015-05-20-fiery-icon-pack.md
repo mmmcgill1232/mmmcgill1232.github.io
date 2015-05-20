@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Firey Icon Pack Released
+title: Fiery Icon Pack Released
 comments: true
 ---
 
