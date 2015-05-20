@@ -13,7 +13,7 @@ permalink: /downloads/
     <tr>
     <td>
       <a href="http://mmmcgill1232.itch.io/firey-icon-pack">
-        <h1>Fiery Icon Pack</h1>
+        <h2>Fiery Icon Pack</h2>
       </a>
     </td>
   </tr>
