@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Fiery Icon Pack Released
 comments: true
 ---
