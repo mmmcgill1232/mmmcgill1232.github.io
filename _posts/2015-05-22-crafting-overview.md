@@ -5,7 +5,13 @@ comments: true
 ---
 Lately I've been thinking about how crafting should work in my game. There are so many options to consider that it's a bit overwhelming to start from scratch. Rather than stumble around blindly I figured I'd take a look at how some of my favorite games have designed their crafting systems.
 
-![Blacksmith_anvil_hammer](http://upload.wikimedia.org/wikipedia/commons/a/ae/Blacksmith_anvil_hammer.svg)
+<table style="margin-left:auto; margin-right:auto;">
+  <tr>
+    <td>
+      <img src="http://upload.wikimedia.org/wikipedia/commons/a/ae/Blacksmith_anvil_hammer.svg" alt="Blacksmith_anvil_hammer" style="width: 400px;"/>
+    </td>
+  </tr>
+</table>
 
 I'll be examining World of Warcraft (both pre and post warlords), Guild Wars 2, Minecraft (primarily vanilla, perhaps some modded), and The Witcher 3. I'm planning to cover these topics over the next week or two:
 
@@ -20,7 +26,13 @@ With that said, let's jump into the overview.
 
 <h1>World of Warcraft</h1>
 
-<img src="{{ site.baseurl }}/images/wow_craft.png" alt="WoW Crafting" style="width: 250px;"/>
+<table style="margin-left:auto; margin-right:auto;">
+  <tr>
+    <td>
+      <img src="{{ site.baseurl }}/images/wow_craft.png" alt="WoW Crafting" style="width: 250px;"/>
+    </td>
+  </tr>
+</table>
 
 I'll be discussing both WoW traditionally as well as the changes brought in with Warlord of Draenor since crafting has been changed pretty radically with the expansion.
 
@@ -39,7 +51,13 @@ One of the benefits of this system is its approachability. Once a player has inv
 
 <h1>Guild Wars 2</h1>
 
-<img src="{{ site.baseurl }}/images/gw2_craft.png" alt="GW2 Crafting" style="width: 411px;"/>
+<table style="margin-left:auto; margin-right:auto;">
+  <tr>
+    <td>
+      <img src="{{ site.baseurl }}/images/gw2_craft.png" alt="GW2 Crafting" style="width: 411px;"/>
+    </td>
+  </tr>
+</table>
 
 GW2 follows many of the same conventions as WoW. Player's still learn a trade skill, craft a bunch of low level items to skill up and repeat this process until they've capped their crafting skill. One new feature that Guild Wars added was the discovery mechanic. The default leveling recipes tend to be for components which can be combined into complete items rather than the items themselves. For example to level tailoring you can craft shoe soles, shoe uppers, and an insignia to specify the stats you want, then in the discovery panel you combine these items for a pair of boots and a large chunk of experience. 
 
@@ -49,7 +67,13 @@ When the game was first released, discovery was a great way to keep things inter
 
 <h1>Minecraft</h1>
 
-<img src="{{ site.baseurl }}/images/mc_craft.png" alt="Minecraft Crafting" style="width: 261px;"/>
+<table style="margin-left:auto; margin-right:auto;">
+  <tr>
+    <td>
+      <img src="{{ site.baseurl }}/images/mc_craft.png" alt="Minecraft Crafting" style="width: 261px;"/>
+    </td>
+  </tr>
+</table>
 
 Minecraft's crafting involves arranging a series of items in a 3x3 (or 2x2) grid to form a representation of the item you want to create. Other methods of crafting are combining raw ore and a fuel source in a furnace as well as combining experience, a weapon, and lapis lazuli into an enchanted weapon. 
 
@@ -61,7 +85,13 @@ The concept of discovering recipes through experimentation is interesting, howev
 
 <h1>Witcher	3</h1>
 
-<img src="{{ site.baseurl }}/images/witcher_craft.png" alt="Witcher 3 Crafting" style="width: 551px;"/>
+<table style="margin-left:auto; margin-right:auto;">
+  <tr>
+    <td>
+      <img src="{{ site.baseurl }}/images/witcher_craft.png" alt="Witcher 3 Crafting" style="width: 551px;"/>
+    </td>
+  </tr>
+</table>
 
 The Witcher allows players to craft potions and bombs themselves and leaves blacksmithing to vendors. Crafting requires a wide variety of materials as well as a recipe. Recipes for basic goods can be bought from merchants and rare items can be crafted by finding their recipe hidden in various locations throughout the world. There are tiers of blacksmiths which can craft progressively better equipment as the player progresses enough to find them.
 
