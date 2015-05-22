@@ -4,8 +4,6 @@ title: Donate
 permalink: /donate/
 ---
 
-![Blacksmith_anvil_hammer](http://upload.wikimedia.org/wikipedia/commons/a/ae/Blacksmith_anvil_hammer.svg)
-
 If you would like to make a donation to help support what I'm doing you can do so here.
 <br/><br/>
 
