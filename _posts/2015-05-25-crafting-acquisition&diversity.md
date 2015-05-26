@@ -3,10 +3,9 @@ layout: post
 title: Crafting - Material Acquisition & Diversity
 comments: true
 ---
+<img src="{{ site.baseurl }}/images/Resources.png" alt="Resources" style="width: 720px;"/>
 
 Every crafting system requires raw materials to transform into goods and there are plenty of ways to give your players these materials. Materials could come through gathering nodes, drops from enemies, achievements, quests, vendors, or any other method you can think of. Today I'll be looking at a number of these methods for material acquisition as well as how diversity of materials can affect the overall enjoyment of the crafting system.
-
-<img src="{{ site.baseurl }}/images/Resources.png" alt="Resources" style="width: 720px;"/>
 <span class="more"></span>
 
 <h1>Nodes</h1>
