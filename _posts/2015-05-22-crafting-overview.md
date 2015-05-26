@@ -3,8 +3,6 @@ layout: post
 title: Crafting Overview
 comments: true
 ---
-Lately I've been thinking about how crafting should work in my game. There are so many options to consider that it's a bit overwhelming to start from scratch. Rather than stumble around blindly I figured I'd take a look at how some of my favorite games have designed their crafting systems.
-
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td>
@@ -12,6 +10,8 @@ Lately I've been thinking about how crafting should work in my game. There are s
     </td>
   </tr>
 </table>
+
+Lately I've been thinking about how crafting should work in my game. There are so many options to consider that it's a bit overwhelming to start from scratch. Rather than stumble around blindly I figured I'd take a look at how some of my favorite games have designed their crafting systems.
 
 I'll be examining World of Warcraft (both pre and post warlords), Guild Wars 2, Minecraft (primarily vanilla, perhaps some modded), and The Witcher 3. I'm planning to cover these topics over the next week or two:
 
