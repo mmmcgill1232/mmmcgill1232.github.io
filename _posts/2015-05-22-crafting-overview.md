@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crafting Overview
+title: Crafting - Overview
 comments: true
 ---
 <table style="margin-left:auto; margin-right:auto;">
