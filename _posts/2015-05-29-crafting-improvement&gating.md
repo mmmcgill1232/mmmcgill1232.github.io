@@ -3,7 +3,6 @@ layout: post
 title: Crafting – Skill Improvement & Gating Mechanics
 comments: true
 ---
-
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td>
@@ -13,6 +12,7 @@ comments: true
 </table>
 
 In my experience it’s pretty rare to find a game that gives players unlimited access to their crafting system from the start. There is almost always some sort of improvement system or some other means of pacing the crafting process. This can be through a leveling up system, requiring recipes, or even just through material availability. This post will explore how other games have implemented their improvement and gating systems while trying to reach conclusions about the most applicable solution for my own game. 
+
 <span class=”more”></span>
 
 <h1>World of Warcraft</h1> 
