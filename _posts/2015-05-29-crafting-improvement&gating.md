@@ -7,7 +7,7 @@ comments: true
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td>
-      <img src="{{ site.baseurl }}/images/skillup.png" alt="Resources" style="width: 720px;"/>
+      <img src="{{ site.baseurl }}/images/skillup.png" alt="Resources" style="width: 360px;"/>
     </td>
   </tr>
 </table>
