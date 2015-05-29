@@ -11,9 +11,9 @@ comments: true
   </tr>
 </table>
 
-In my experience it’s pretty rare to find a game that gives players unlimited access to their crafting system from the start. There is almost always some sort of improvement system or some other means of pacing the crafting process. This can be through a leveling up system, requiring recipes, or even just through material availability. This post will explore how other games have implemented their improvement and gating systems while trying to reach conclusions about the most applicable solution for my own game. 
 
-<span class=”more”></span>
+In my experience it’s pretty rare to find a game that gives players unlimited access to their crafting system from the start. There is almost always some sort of improvement system or some other means of pacing the crafting process. This can be through a leveling up system, requiring recipes, or even just through material availability. This post will explore how other games have implemented their improvement and gating systems while trying to reach conclusions about the most applicable solution for my own game. 
+<span class="more"></span>
 
 <h1>World of Warcraft</h1> 
 WoW utilizes a level based crafting system with some recipe requirements. To level up players are given starting recipes from trainers. Completing these recipes has a chance to give a level based on the difficulty of the recipe. Difficulty is represented by colour - in descending order: red (uncraftable), orange (guaranteed skill up), yellow (likely skill up), green (unlikely skill up), and grey (no skill up). Some catch up recipes were added in the Cataclysm expansion which provide more than one skill up per craft. These were added as a way to allow players to improve their profession more quickly at low levels. As a player I’ve always found that gaining a level feels underwhelming with this system. Most real progression happens at plateaus where you unlock new recipes (leveling from 13-14 is irrelevant but 14-15 gives new stuff!). I feel that giving the player intermediary levels which provide no benefit devalues the experience of leveling up. I prefer systems which have less frequent but more impactful level ups.
