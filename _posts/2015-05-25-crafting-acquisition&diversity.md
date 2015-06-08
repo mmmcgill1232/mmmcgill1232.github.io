@@ -50,6 +50,7 @@ I feel that a low number of mats and lower overall crafting complexity makes sen
 
 <h1>Summary</h1>
 The main things I’ve taken away from this thought exercise are:
+
 * Gathering nodes add a lot of value to games
 * When a player reaches a new area they should already be of the correct crafting level to harvest the newly available resources (given regular gameplay)
 * I prefer when gathering can be done without inhibiting player movement
