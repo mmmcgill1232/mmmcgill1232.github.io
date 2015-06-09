@@ -12,7 +12,7 @@ permalink: /about/
 
 Check out my personal [DeviantArt](http://mmmcgill1232.deviantart.com/) page for various artwork I've done, both for the game and just for fun.
 
-I'll be posting gameplay footage to [Youtube](https://www.youtube.com/user/mmmcgill1232) as I have more to show. I also have an ongoing F.E.A.R. playthrough there if you enjoy that kind of thing.
+I'll be posting gameplay footage to [Youtube](https://www.youtube.com/user/mmmcgill1232) as I have more to show.
 
 ### Contact me
 
