@@ -50,3 +50,5 @@ The Witcher has an interesting consumable system that I haven’t personally see
 * A mix of consumables and permanent items provides a good balance of strong rewards and ongoing use for the system.
 
 In the next and final post in this series I’ll summarize everything I’ve gone over thus far, discuss what I’ve learned from the experience, and think about how to apply it to my game.
+
+<a href="http://mmmcgill1232.github.io/Crafting-Opinions&Lessons-Learned/">Next - Opinions & Lessons Learned</a>
