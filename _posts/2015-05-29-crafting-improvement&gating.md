@@ -45,3 +45,5 @@ Recipe requirement is a great way to implement skill improvement. They can be re
 For myself I will likely be going with recipes scattered throughout the world as the primary means of improving the skill. If that doesn’t prove compelling enough I’d consider combining it with a leveling system with around 4 tiers – ensuring that early tiers can produce useful items, not just junk.
 
 Next time I’ll cover the last topic I’ve been meaning to look at: Permanence & Usefulness. 
+
+<a href="http://mmmcgill1232.github.io/crafting-permanence&usefulness/">Next - Permanence & Usefulness</a>
