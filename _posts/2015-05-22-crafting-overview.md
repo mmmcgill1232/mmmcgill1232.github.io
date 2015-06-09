@@ -76,3 +76,5 @@ This system rewards exploration heavily, with rare materials and patterns coming
 <h1>Conclusion</h1>
 
 So there we have it. Four games, four takes on crafting. Next time I'll discuss how materials are acquired and material diversity in each of these games.
+
+<a href="http://mmmcgill1232.github.io/crafting-acquisition&diversity/">Next - Crafting Acquisition & Diversity</a>
