@@ -48,4 +48,5 @@ The Witcher has an interesting consumable system that I haven’t personally see
 * Making crafting one of many ways to obtain a given reward incentivizes participation without forcing players to do so.
 * When crafted items are critical the system should be strong enough to stand on its own.
 * A mix of consumables and permanent items provides a good balance of strong rewards and ongoing use for the system.
+
 In the next and final post in this series I’ll summarize everything I’ve gone over thus far, discuss what I’ve learned from the experience, and think about how to apply it to my game.
