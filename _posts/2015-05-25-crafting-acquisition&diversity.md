@@ -58,3 +58,5 @@ The main things I’ve taken away from this thought exercise are:
 * Material diversity and recipe complexity should expand along with the player’s mastery of the system
 
 Next up I’ll be looking at how players improve their crafting ability and gating mechanics.
+
+<a href="http://mmmcgill1232.github.io/crafting-improvement&gating/">Next - Skill Improvement & Gating Mechanics</a>
