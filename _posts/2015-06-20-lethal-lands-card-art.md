@@ -40,6 +40,8 @@ comments: true
 
 Lately I've been doing some card art for an upcoming game called Lethal Lands. Check out the <a href="http://lethallands.com/cards/">card gallery</a> and follow the games <a href="https://twitter.com/lethallands">twitter</a>.
 
+Full size images after the break.
+
 <span class="more"></span>
 
 <table style="margin-left:auto; margin-right:auto;">
