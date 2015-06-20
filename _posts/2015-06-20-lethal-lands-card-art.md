@@ -24,16 +24,16 @@ comments: true
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td style="width:132px">
-      Knight's Helm
+      <p style="font-size: 12px; text-align: center;">Knight's Helm</p>
     </td>
     <td style="width:132px">
-      Ring of the Night's Watch
+      <p style="font-size: 12px; text-align: center;">Ring of the Night's Watch</p>
     </td>
     <td style="width:132px">
-      Sabari's Amulet
+      <p style="font-size: 12px; text-align: center;">Sabari's Amulet</p>
     </td>
     <td style="width:132px">
-      Life Leech (Co-created with Ryn Park)
+      <p style="font-size: 12px; text-align: center;">Life Leech (Co-created with Ryn Park)</p>
     </td>
   </tr>
 </table>
