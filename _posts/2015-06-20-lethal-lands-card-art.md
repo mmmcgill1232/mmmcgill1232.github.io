@@ -38,7 +38,7 @@ comments: true
   </tr>
 </table>
 
-Lately I've been doing some card art for an upcoming game called Lethal Lands. You can see the card gallery at http://lethallands.com/cards/ and follow the games development at https://twitter.com/lethallands.
+Lately I've been doing some card art for an upcoming game called Lethal Lands. Check out the <a href="http://lethallands.com/cards/">card gallery</a> and follow the games <a href="https://twitter.com/lethallands">twitter</a>.
 
 <span class="more"></span>
 
@@ -47,12 +47,18 @@ Lately I've been doing some card art for an upcoming game called Lethal Lands. Y
     <td>
       <img src="http://orig01.deviantart.net/d2f1/f/2015/171/3/7/3736a2aa53b68d8e32ea30dff164affb-d8y1efp.jpg" alt="Knight's_Helm"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="http://orig14.deviantart.net/6658/f/2015/171/e/4/ring_of_the_night_s_watch_by_mmmcgill1232-d8y1f91.jpg" alt="Ring of the Night's Watch"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="http://orig13.deviantart.net/6deb/f/2015/171/6/2/sabarri_s_amulet_by_mmmcgill1232-d8y1fd8.jpg" alt="Sabari's Amulet"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="http://pre03.deviantart.net/a005/th/pre/f/2015/171/a/9/lifeleech_by_mmmcgill1232-d8y1fjm.jpg" alt="Life Leech"/>
     </td>
