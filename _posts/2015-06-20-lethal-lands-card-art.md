@@ -19,6 +19,9 @@ comments: true
       <img src="http://pre03.deviantart.net/a005/th/pre/f/2015/171/a/9/lifeleech_by_mmmcgill1232-d8y1fjm.jpg" alt="Life Leech" style="width: 132px;"/>
     </td>
   </tr>
+</table>
+
+<table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td>
       Knight's Helm
