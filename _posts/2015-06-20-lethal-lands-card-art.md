@@ -23,7 +23,7 @@ comments: true
 
 <table style="margin-left:auto; margin-right:auto;">
   <tr>
-    <td style="width:132px">>
+    <td style="width:132px">
       Knight's Helm
     </td>
     <td style="width:132px">
